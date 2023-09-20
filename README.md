@@ -1,1 +1,1 @@
-# door-
+# automatic door-
